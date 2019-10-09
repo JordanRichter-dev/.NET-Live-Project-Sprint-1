@@ -17,13 +17,14 @@ Listed below are the stories I worked on, a brief description of their expectati
 
 ## User Stories
 * [Front End Stories](#front-end-stories)
-* [States Dropdown](#states-dropdown)
-* [Sorting, Paging, and Searching ](#sorting,-paging,-and-searching)
-* [Admin Header Nav Bar](#admin-header-nav-bar)
+* [Full Stack Stories](#full-stack)
+  * [States Dropdown](#states-dropdown)
+  * [Sorting, Paging, and Searching ](#sorting,-paging,-and-searching)
+  * [Admin Header Nav Bar](#admin-header-nav-bar)
 
+------------
 
-
-###Front End Stories
+### Front End Stories
 
 Styled the Scheduling page:
 
@@ -58,18 +59,18 @@ I also added a jquery reference for error handling:
 
 ![img](images/TEs06TvRFgCM3r5K8GZaF-9vOi9r3QYMwaFAsaTCMzUuPtOiA_i518UBDK0pEtF-ioCbh7mY-ezXWM5kb4F-cLxPyJ0zcb44RY5MxCkGdIJs_JMreZmKnGHaTOh87jJx7o1O5y6C-20191009120720037.png)
 
-
+------------
 
 **<u>Full Stack</u>**
 
-###States Dropdown
+### States Dropdown
 
 On another story I added a dropdown menu for selecting States:
 Here are code snippets that I added:
 
 In View, I added access to DropDownList:   
 
-![Screenshot 2019-10-07 16.52.09](images/Screenshot%202019-10-07%2016.52.09.png)
+![img](images/Screenshot%202019-10-07%2016.52.09.png)
 
 In JobsitesController.cs:
 ![img](images/lYcf41YwoRQeo7YFQNw1uBFqvdYh611diQRJ9wjqnPep5hrh78q7p6dosQIVumPGoOx0elghietmoOH39XBumNW8z5b6_Eq9aXPVo1d2C-nu15-Ik7C6bsg10fCZJMggD19Ab_90.png)
@@ -87,7 +88,7 @@ After:
 
 
 
-###Sorting, Paging, And Seaching
+### Sorting, Paging, And Seaching
 
 This story asks for items in a Form List to be sorted by date and alphabetical order, as well as order by active jobs or passive.  Also add the ability to search and page through as jobs are added and app is scaled up:
 Finished page:
@@ -207,10 +208,10 @@ View:
 ![img](images/WvrEoOQ-RVxZ-w6kE2xh0N5JWlyVz9rADxpn1k-GLcOm4bFHyIhTNlex01ePdBJTVn-DjBeShSP6d2YmLm6OwxrVIudqjMoslXgQ5LpofIZBnz-kpIaXrykY_sRDcVBRfVXJyzey.png)
 
 
+------------
 
 
-
-###Admin Header Nav Bar
+### Admin Header Nav Bar
 
 I added a Dropdown Navbar in the Header that appears only when logged in and displays user's name:
 
