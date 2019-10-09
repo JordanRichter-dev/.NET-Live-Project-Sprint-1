@@ -17,14 +17,17 @@ Listed below are the stories I worked on, a brief description of their expectati
 
 ## User Stories
 * [Front End Stories](#front-end-stories)
-* [Full Stack Stories](#full-stack)
+  * [Scheduling Page](#scheduling-page)
+* [Full Stack Stories](#full-stack-stories)
   * [States Dropdown](#states-dropdown)
-  * [Sorting, Paging, and Searching ](#sorting,-paging,-and-searching)
+  * [Sorting Paging And Seaching](#sorting-paging-and-seaching)
   * [Admin Header Nav Bar](#admin-header-nav-bar)
 
 ------------
 
 ### Front End Stories
+
+### Scheduling Page
 
 Styled the Scheduling page:
 
@@ -61,7 +64,7 @@ I also added a jquery reference for error handling:
 
 ------------
 
-**<u>Full Stack</u>**
+### Full Stack Stories
 
 ### States Dropdown
 
@@ -88,7 +91,7 @@ After:
 
 
 
-### Sorting, Paging, And Seaching
+### Sorting Paging And Seaching
 
 This story asks for items in a Form List to be sorted by date and alphabetical order, as well as order by active jobs or passive.  Also add the ability to search and page through as jobs are added and app is scaled up:
 Finished page:
