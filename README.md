@@ -8,7 +8,7 @@ Introduction
 ------------
 
 
-During my time at The Tech Academy, I was assigned to 2 two-week sprints working on software to be used as a way to "manage a collection of construction jobs. Admins will be able to create and distribute a weekly schedule assigning users to certain jobs. Users will be able to keep track of which job they are assigned to for the week. There will also be the ability for admins to post company news and announcements, and chat functionality for the users to socialize."
+During my time as an Engineering Intern at Prosper IT Consulting, I was assigned to 2 two-week sprints working on software to be used as a way to "manage a collection of construction jobs. Admins will be able to create and distribute a weekly schedule assigning users to certain jobs. Users will be able to keep track of which job they are assigned to for the week. There will also be the ability for admins to post company news and announcements, and chat functionality for the users to socialize."
 
 My contributions to this project included adding back-end search functionality to the database within different pages of the app. This involved displaying ActionResults to Views, and using Partial Views that shared information within different parts of the app.  I also worked extensively with user roles and authentication as well as error handling, UI/UX navbar improvements, and adding and deleting objects to and from multiple tables with the database.
 
@@ -209,7 +209,6 @@ View:
 ![img](images/AFxeGl7SGaLNgb8GxqW6cb7BOuD6_PMQsAyQArPlHaBdDvWmoIqEZweb26XRn1AchvSM55yDQF13dkiyg5MYot6O4ofSXZ0sT7S1BA7Ng93qWppQJZ4qWusKNpcaZ3VQBlUTMGYQ.png)
 
 ![img](images/WvrEoOQ-RVxZ-w6kE2xh0N5JWlyVz9rADxpn1k-GLcOm4bFHyIhTNlex01ePdBJTVn-DjBeShSP6d2YmLm6OwxrVIudqjMoslXgQ5LpofIZBnz-kpIaXrykY_sRDcVBRfVXJyzey.png)
-
 
 ------------
 
