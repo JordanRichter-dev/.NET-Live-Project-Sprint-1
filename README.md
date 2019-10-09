@@ -37,28 +37,28 @@ Before:
 
 After:
 
-![img](yMjibqanTJ6hqgktaD8j45s9lWg7iVERCLyT6yBB0RzGstmD7tDUnhKZWdWVBj-JFFIJZzMWjamsxH4S_NPdBc6ffWCnZKCbjhqtAEBSVbbYkrJLVzhCtp1Tct-Ylt8LS_qanFjb-20191007163504486.png)
+![img](images/yMjibqanTJ6hqgktaD8j45s9lWg7iVERCLyT6yBB0RzGstmD7tDUnhKZWdWVBj-JFFIJZzMWjamsxH4S_NPdBc6ffWCnZKCbjhqtAEBSVbbYkrJLVzhCtp1Tct-Ylt8LS_qanFjb-20191007163504486.png)
 
 On this story, I stylized the background and buttons using CSS:
 
-![img](hj0NhhiZO6gCSMlhyUrgKXvc7DN6FLtx5lqgoPm5jEaTv9x2w-wd7v28vKQ7CnCL8pzUqGDiIlIsCMNWTTOCnBU1sh53RTtOi1Pp_iApXObrm1sSd-_z20CMTmwvrrTPTe3kPKay-20191007163512819-0646565.png)
+![img](images/hj0NhhiZO6gCSMlhyUrgKXvc7DN6FLtx5lqgoPm5jEaTv9x2w-wd7v28vKQ7CnCL8pzUqGDiIlIsCMNWTTOCnBU1sh53RTtOi1Pp_iApXObrm1sSd-_z20CMTmwvrrTPTe3kPKay-20191007163512819-0646565.png)
 
 
 Before:
 
-![img](f0WsS9td5UVFk_yTU_RLKIKv6Spex9XY5lFfYI2HBYaCOxjR_48EUUxlDYdnj1D3sObZWflFCIUYxCP4aJ9Q2YAKrNWV-g1ztMzt4iIVc6tj4T_P7YibEsYckw0Pz5t5PPWJsngj.png)
+![img](images/f0WsS9td5UVFk_yTU_RLKIKv6Spex9XY5lFfYI2HBYaCOxjR_48EUUxlDYdnj1D3sObZWflFCIUYxCP4aJ9Q2YAKrNWV-g1ztMzt4iIVc6tj4T_P7YibEsYckw0Pz5t5PPWJsngj.png)
 
 
 After:
 
-![img](YonLs-AQ8Tpf1wwx9AWoOe0ralXbyhEurfKrZtYdUgt3n86zlNnhCH_T3h3Bmizt5M3gCVUd7aZZ8tGO9oUJnKEyZWWZmKBxSbVVlLPDKGTmwAcuI6oFaWUnBUS8cUnZJtdVl6pV.png)
+![img](images/YonLs-AQ8Tpf1wwx9AWoOe0ralXbyhEurfKrZtYdUgt3n86zlNnhCH_T3h3Bmizt5M3gCVUd7aZZ8tGO9oUJnKEyZWWZmKBxSbVVlLPDKGTmwAcuI6oFaWUnBUS8cUnZJtdVl6pV.png)
 
 
 
 
 I also added a jquery reference for error handling:
 
-![img](TEs06TvRFgCM3r5K8GZaF-9vOi9r3QYMwaFAsaTCMzUuPtOiA_i518UBDK0pEtF-ioCbh7mY-ezXWM5kb4F-cLxPyJ0zcb44RY5MxCkGdIJs_JMreZmKnGHaTOh87jJx7o1O5y6C.png)
+![img](images/TEs06TvRFgCM3r5K8GZaF-9vOi9r3QYMwaFAsaTCMzUuPtOiA_i518UBDK0pEtF-ioCbh7mY-ezXWM5kb4F-cLxPyJ0zcb44RY5MxCkGdIJs_JMreZmKnGHaTOh87jJx7o1O5y6C.png)
 
 
 
@@ -73,10 +73,10 @@ Here are code snippets that I added:
 
 In View, I added access to DropDownList:   
 
-![Screenshot 2019-10-07 16.52.09](Screenshot%202019-10-07%2016.52.09.png)
+![Screenshot 2019-10-07 16.52.09](images/Screenshot%202019-10-07%2016.52.09.png)
 
 In JobsitesController.cs:
-![img](lYcf41YwoRQeo7YFQNw1uBFqvdYh611diQRJ9wjqnPep5hrh78q7p6dosQIVumPGoOx0elghietmoOH39XBumNW8z5b6_Eq9aXPVo1d2C-nu15-Ik7C6bsg10fCZJMggD19Ab_90.png)
+![img](images/lYcf41YwoRQeo7YFQNw1uBFqvdYh611diQRJ9wjqnPep5hrh78q7p6dosQIVumPGoOx0elghietmoOH39XBumNW8z5b6_Eq9aXPVo1d2C-nu15-Ik7C6bsg10fCZJMggD19Ab_90.png)
 
 Before:
 
