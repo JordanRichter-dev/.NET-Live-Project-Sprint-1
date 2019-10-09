@@ -54,12 +54,9 @@ After:
 
 
 
-
 I also added a jquery reference for error handling:
 
-![img](images/TEs06TvRFgCM3r5K8GZaF-9vOi9r3QYMwaFAsaTCMzUuPtOiA_i518UBDK0pEtF-ioCbh7mY-ezXWM5kb4F-cLxPyJ0zcb44RY5MxCkGdIJs_JMreZmKnGHaTOh87jJx7o1O5y6C-20191009120009761.png)
-
-
+![img](images/TEs06TvRFgCM3r5K8GZaF-9vOi9r3QYMwaFAsaTCMzUuPtOiA_i518UBDK0pEtF-ioCbh7mY-ezXWM5kb4F-cLxPyJ0zcb44RY5MxCkGdIJs_JMreZmKnGHaTOh87jJx7o1O5y6C-20191009120720037.png)
 
 
 
