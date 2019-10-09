@@ -27,38 +27,37 @@ Listed below are the stories I worked on, a brief description of their expectati
 
 Styled the Scheduling page:
 
-![img](images/-tWnqFxFBNVbT7XBtC6bsm1ku7nAqkeHhDiwmyK3cSZyivnCJKCFCtjQpYO5Ih-oRHlqALKHUlws1l3xi7daOm_2nYh43q2f_zDusZlkCAJEorM6giyBbqJPgcdM3MEsuOAc2YuV-20191007163447507.png)
-
+![img](images/-tWnqFxFBNVbT7XBtC6bsm1ku7nAqkeHhDiwmyK3cSZyivnCJKCFCtjQpYO5Ih-oRHlqALKHUlws1l3xi7daOm_2nYh43q2f_zDusZlkCAJEorM6giyBbqJPgcdM3MEsuOAc2YuV-20191009115909377.png)
 
 Allowed resizing for "Body" textbox:
 Before:
 
-![img](images/8n0seYD6La9Ts_NPJ-m8aJc2MwCL0S1JY2XZ4YpYFpwcB1aGzwzlpsuEfAZxNT8a-7gY25D8x3eXWoe8kiQPilANyG5GUiOW_fBRtC0Co1BVABrcvUvaUNwd8L7WqilO1Bl_dyZo-20191007163455941-0646526.png)
+![img](images/8n0seYD6La9Ts_NPJ-m8aJc2MwCL0S1JY2XZ4YpYFpwcB1aGzwzlpsuEfAZxNT8a-7gY25D8x3eXWoe8kiQPilANyG5GUiOW_fBRtC0Co1BVABrcvUvaUNwd8L7WqilO1Bl_dyZo-20191009115919748.png)
 
 After:
 
-![img](yMjibqanTJ6hqgktaD8j45s9lWg7iVERCLyT6yBB0RzGstmD7tDUnhKZWdWVBj-JFFIJZzMWjamsxH4S_NPdBc6ffWCnZKCbjhqtAEBSVbbYkrJLVzhCtp1Tct-Ylt8LS_qanFjb-20191007163504486.png)
+![img](images/yMjibqanTJ6hqgktaD8j45s9lWg7iVERCLyT6yBB0RzGstmD7tDUnhKZWdWVBj-JFFIJZzMWjamsxH4S_NPdBc6ffWCnZKCbjhqtAEBSVbbYkrJLVzhCtp1Tct-Ylt8LS_qanFjb-20191009115933000.png)
 
 On this story, I stylized the background and buttons using CSS:
 
-![img](hj0NhhiZO6gCSMlhyUrgKXvc7DN6FLtx5lqgoPm5jEaTv9x2w-wd7v28vKQ7CnCL8pzUqGDiIlIsCMNWTTOCnBU1sh53RTtOi1Pp_iApXObrm1sSd-_z20CMTmwvrrTPTe3kPKay-20191007163512819-0646565.png)
+![img](images/hj0NhhiZO6gCSMlhyUrgKXvc7DN6FLtx5lqgoPm5jEaTv9x2w-wd7v28vKQ7CnCL8pzUqGDiIlIsCMNWTTOCnBU1sh53RTtOi1Pp_iApXObrm1sSd-_z20CMTmwvrrTPTe3kPKay-20191009115938654.png)
 
 
 Before:
 
-![img](f0WsS9td5UVFk_yTU_RLKIKv6Spex9XY5lFfYI2HBYaCOxjR_48EUUxlDYdnj1D3sObZWflFCIUYxCP4aJ9Q2YAKrNWV-g1ztMzt4iIVc6tj4T_P7YibEsYckw0Pz5t5PPWJsngj.png)
+![img](images/f0WsS9td5UVFk_yTU_RLKIKv6Spex9XY5lFfYI2HBYaCOxjR_48EUUxlDYdnj1D3sObZWflFCIUYxCP4aJ9Q2YAKrNWV-g1ztMzt4iIVc6tj4T_P7YibEsYckw0Pz5t5PPWJsngj-20191009115948105.png)
 
 
 After:
 
-![img](YonLs-AQ8Tpf1wwx9AWoOe0ralXbyhEurfKrZtYdUgt3n86zlNnhCH_T3h3Bmizt5M3gCVUd7aZZ8tGO9oUJnKEyZWWZmKBxSbVVlLPDKGTmwAcuI6oFaWUnBUS8cUnZJtdVl6pV.png)
+![img](images/YonLs-AQ8Tpf1wwx9AWoOe0ralXbyhEurfKrZtYdUgt3n86zlNnhCH_T3h3Bmizt5M3gCVUd7aZZ8tGO9oUJnKEyZWWZmKBxSbVVlLPDKGTmwAcuI6oFaWUnBUS8cUnZJtdVl6pV-20191009115958364.png)
 
 
 
 
 I also added a jquery reference for error handling:
 
-![img](TEs06TvRFgCM3r5K8GZaF-9vOi9r3QYMwaFAsaTCMzUuPtOiA_i518UBDK0pEtF-ioCbh7mY-ezXWM5kb4F-cLxPyJ0zcb44RY5MxCkGdIJs_JMreZmKnGHaTOh87jJx7o1O5y6C.png)
+![img](images/TEs06TvRFgCM3r5K8GZaF-9vOi9r3QYMwaFAsaTCMzUuPtOiA_i518UBDK0pEtF-ioCbh7mY-ezXWM5kb4F-cLxPyJ0zcb44RY5MxCkGdIJs_JMreZmKnGHaTOh87jJx7o1O5y6C-20191009120009761.png)
 
 
 
@@ -73,10 +72,10 @@ Here are code snippets that I added:
 
 In View, I added access to DropDownList:   
 
-![Screenshot 2019-10-07 16.52.09](Screenshot%202019-10-07%2016.52.09.png)
+![Screenshot 2019-10-07 16.52.09](images/Screenshot%202019-10-07%2016.52.09.png)
 
 In JobsitesController.cs:
-![img](lYcf41YwoRQeo7YFQNw1uBFqvdYh611diQRJ9wjqnPep5hrh78q7p6dosQIVumPGoOx0elghietmoOH39XBumNW8z5b6_Eq9aXPVo1d2C-nu15-Ik7C6bsg10fCZJMggD19Ab_90.png)
+![img](images/lYcf41YwoRQeo7YFQNw1uBFqvdYh611diQRJ9wjqnPep5hrh78q7p6dosQIVumPGoOx0elghietmoOH39XBumNW8z5b6_Eq9aXPVo1d2C-nu15-Ik7C6bsg10fCZJMggD19Ab_90.png)
 
 Before:
 
