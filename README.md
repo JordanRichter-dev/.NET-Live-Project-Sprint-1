@@ -1,6 +1,6 @@
-# .NET Live Project-Sprint 1
+# .NET Live Project: Sprint 1
 
-Personal Code Summary for the team live project I was a part of at Prosper IT Consulting
+Personal Code Summary for the first team live project I was a part of at Prosper IT Consulting
 
 
 
